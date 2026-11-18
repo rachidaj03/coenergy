@@ -1,0 +1,7 @@
+dist/
+drive_data/
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+.DS_Store
